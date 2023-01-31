@@ -35,7 +35,6 @@
 ### contact 
 💼 Pull requests help you collaborate on code with me [issues and pull requests](https://github.com/ManishKumarRJ/File-System-Organizer/pulls) :)
 
- 💼 if you have any doubt? do reach, [email](mailto:ManishKumarRJ00@gmail.com) :)
 
 
 # Before  Organize the file
